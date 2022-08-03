@@ -1,4 +1,5 @@
 # Awesome Attention-based GNNs
+
 - A collection of resources on attention-based graph neural networks.
 
 - Welcome to submit a pull request to add more awesome papers.
@@ -9,14 +10,16 @@
 
 ## Table of Contents
 - [Surveys](#Surveys)
-- [GRANs](#GRANs)
-- [GATs](#GATs)
-- [Graph Transformers](#GraphTransformers)
+- [GRANs](#GRANs) : (Graph Recurrent Attention Networks)
+- [GATs](#GATs) : (Graph Attention Networks)
+- [Graph Transformers](#GraphTransformers) : (Graph Transformers)
 
 ## Survey
-- [x] [TKDD2019] [survey] Attention Models in Graphs: A Survey
+
+- [x] [TKDD2019] [survey] Attention Models in Graphs: A Survey [[paper]](link) [[code]](link)
 
 ## GRANs
+
 - [x] [ICLR2016] [GGNN] Gated Graph Sequence Neural Networks
 - [x] [UAI2018] [GaAN] GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs
 - [x] [ICML2018] [GraphRNN] Graphrnn: Generating realistic graphs with deep auto-regressive models
