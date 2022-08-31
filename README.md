@@ -31,24 +31,28 @@
 - [x] [KDD2018] [GAM] Graph Classification using Structural Attention [[paper]](https://doi.org/10.1145/3219819.3219980) [[code]](https://github.com/benedekrozemberczki/GAM)
 - [x] [AAAI2019] [GeniePath] GeniePath: Graph Neural Networks with Adaptive Receptive Paths [[paper]](http://arxiv.org/abs/1802.00910) 
 
+
 ## GATs
-- [x] [ICLR2018] [GAT] Graph Attention Networks
-- [x] [NeurIPS2019] [C-GAT] Improving Graph Attention Networks with Large Margin-based Constraints
-- [x] [ICLR2022] [GATv2] How Attentive are Graph Attention Networks?
-- [x] [NeurIPS2021] [DMP] Diverse Message Passing for Attribute with Heterophily
-- [x] [KDD2021] [Simple-HGN] Are we really making much progress? Revisiting, benchmarking and refining heterogeneous graph neural networks
-- [x] [ICLR2022] [PPRGAT] Personalized PageRank Meets Graph Attention Networks
-- [x] [ICLR2021] [SuperGAT] How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision
-- [x] [KDD2019] [GANet] Graph Representation Learning via Hard and Channel-Wise Attention Networks
-- [x] [NeurIPS2021] [CAT] Learning Conjoint Attentions for Graph Neural Nets
-- [x] [TransNNLS2021] [MSNA] Neighborhood Attention Networks With Adversarial Learning for Link Prediction
-- [x] [arXiv2018] [GGAT] Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network
-- [x] [NeurIPS2019] [HGCN] Hyperbolic Graph Convolutional Neural Networks
-- [x] [TBD2021] [HAT] Hyperbolic graph attention network
-- [x] [IJCAI2020] [Hype-HAN] Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding
-- [x] [ICLR2019] [] Hyperbolic Attention Networks
-- [x] [ICLR2018] [AGNN] Attention-based Graph Neural Network for Semi-supervised Learning
-- [x] [KDD2018] [HTNE] Embedding Temporal Network via Neighborhood Formation
+
+- [x] [ICLR2018] [GAT] Graph Attention Networks [[paper]](https://openreview.net/forum?id=rJXMpikCZ) [[code]](https://github.com/PetarV-/GAT)
+- [x] [NeurIPS2019] [C-GAT] Improving Graph Attention Networks with Large Margin-based Constraints [[paper]](http://arxiv.org/abs/1910.11945) 
+- [x] [ICLR2022] [GATv2] How Attentive are Graph Attention Networks? [[paper]](http://arxiv.org/abs/2105.14491) [[code]](https://github.com/tech-srl/how_attentive_are_gats)
+- [x] [NeurIPS2021] [DMP] Diverse Message Passing for Attribute with Heterophily [[paper]](https://openreview.net/forum?id=4jPVcKEYpSZ) 
+- [x] [KDD2021] [Simple-HGN] Are we really making much progress? Revisiting, benchmarking and refining heterogeneous graph neural networks [[paper]](https://doi.org/10.1145/3447548.3467350) [[code]](https://github.com/THUDM/HGB)
+- [x] [ICLR2022] [PPRGAT] Personalized PageRank Meets Graph Attention Networks [[paper]](https://openreview.net/forum?id=XNYOJD0QdBD) 
+- [x] [ICLR2021] [SuperGAT] How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty) [[code]](https://github.com/dongkwan-kim/SuperGAT)
+- [x] [KDD2019] [GANet] Graph Representation Learning via Hard and Channel-Wise Attention Networks [[paper]](https://doi.org/10.1145/3292500.3330897) 
+- [x] [NeurIPS2021] [CAT] Learning Conjoint Attentions for Graph Neural Nets [[paper]](http://arxiv.org/abs/2102.03147) [[code]](https://github.com/he-tiantian/cats)
+- [x] [TransNNLS2021] [MSNA] Neighborhood Attention Networks With Adversarial Learning for Link Prediction [[paper]](https://ieeexplore.ieee.org/document/9174790) 
+- [x] [arXiv2018] [GGAT] Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network [[paper]](http://arxiv.org/abs/1805.10988) 
+- [x] [NeurIPS2019] [HGCN] Hyperbolic Graph Convolutional Neural Networks [[paper]](http://arxiv.org/abs/1910.12933) 
+- [x] [TBD2021] [HAT] Hyperbolic graph attention network [[paper]](https://arxiv.org/abs/1912.03046) 
+- [x] [IJCAI2020] [Hype-HAN] Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding [[paper]](https://www.ijcai.org/proceedings/2020/552) 
+- [x] [ICLR2019] [] Hyperbolic Attention Networks [[paper]](http://arxiv.org/abs/1805.09786) 
+- [x] [ICLR2018] [AGNN] Attention-based Graph Neural Network for Semi-supervised Learning [[paper]](http://arxiv.org/abs/1803.03735) 
+- [x] [KDD2018] [HTNE] Embedding Temporal Network via Neighborhood Formation [[paper]](https://doi.org/10.1145/3219819.3220054) [[code]](https://github.com/hongyuanmei/neurawkes)
+
+
 - [x] [CVPR2020] [DKGAT] Distilling Knowledge from Graph Convolutional Networks
 - [x] [ICCV2021] [DAGL] Dynamic Attentive Graph Learning for Image Restoration
 - [x] [AAAI2021] [SCGA] Structured Co-reference Graph Attention for Video-grounded Dialogue
@@ -163,5 +167,7 @@
 - [x] [AAAI2021] [GATE] GATE: Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction
 - [x] [NeurIPS2021] [STAGIN] Learning Dynamic Graph Representation of Brain Connectome with Spatio-Temporal Attention
 - [ ] 
-## TODO
+
+
+
 - [x] [journal] [model] paper_title [[paper]](link) [[code]](link)
