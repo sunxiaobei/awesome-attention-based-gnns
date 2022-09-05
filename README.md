@@ -51,24 +51,24 @@
 - [x] [ICLR2019] [] Hyperbolic Attention Networks [[paper]](http://arxiv.org/abs/1805.09786) 
 - [x] [ICLR2018] [AGNN] Attention-based Graph Neural Network for Semi-supervised Learning [[paper]](http://arxiv.org/abs/1803.03735) 
 - [x] [KDD2018] [HTNE] Embedding Temporal Network via Neighborhood Formation [[paper]](https://doi.org/10.1145/3219819.3220054) [[code]](https://github.com/hongyuanmei/neurawkes)
+- [x] [CVPR2020] [DKGAT] Distilling Knowledge from Graph Convolutional Networks [[paper]](http://arxiv.org/abs/2003.10477) [[code]](https://github.com/ihollywhy/DistillGCN.PyTorch)
+- [x] [ICCV2021] [DAGL] Dynamic Attentive Graph Learning for Image Restoration [[paper]](http://arxiv.org/abs/2109.06620) [[code]](https://github.com/jianzhangcs/dagl)
+- [x] [AAAI2021] [SCGA] Structured Co-reference Graph Attention for Video-grounded Dialogue [[paper]](http://arxiv.org/abs/2103.13361) 
+- [x] [AAAI2021] [Co-GAT] Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act Recognition and Sentiment Classification [[paper]](http://arxiv.org/abs/2012.13260) 
+- [x] [ACL2020] [ED-GAT] Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification [[paper]](https://aclanthology.org/2020.acl-main.512) 
+- [x] [EMNLP2019] [TD-GAT] Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks [[paper]](http://arxiv.org/abs/1909.02606) 
+- [x] [WWW2020] [GATON] Graph Attention Topic Modeling Network [[paper]](https://doi.org/10.1145/3366423.3380102) 
+- [x] [KDD2017] [GRAM] GRAM: Graph-based attention model for healthcare representation learning [[paper]](https://doi.org/10.1145/3097983.3098126) [[code]](https://github.com/mp2893/gram)
+- [x] [IJCAI2019] [SPAGAN] SPAGAN: Shortest Path Graph Attention Network [[paper]](https://www.ijcai.org/proceedings/2019/569) 
+- [x] [PKDD2021] [PaGNN] Inductive Link Prediction with Interactive Structure Learning on Attributed Graph [[paper]](https://link.springer.com/book/10.1007/978-3-030-86486-6) 
+- [x] [arXiv2019] [DeepLinker] Link Prediction via Graph Attention Network [[paper]](http://arxiv.org/abs/1910.04807) 
+- [x] [IJCNN2020] [CGAT] Heterogeneous Information Network Embedding with Convolutional Graph Attention Networks [[paper]](https://ieeexplore.ieee.org/document/9206610) 
+- [x] [ICLR2020] [ADSF] Adaptive Structural Fingerprints for Graph Attention Networks [[paper]](https://openreview.net/forum?id=BJxWx0NYPr) 
+- [x] [KDD2021] [T-GAP] Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion [[paper]](https://doi.org/10.1145/3447548.3467292) [[code]](https://github.com/sharkmir1/T-GAP)
+- [x] [NeurIPS2018] [MAF] Modeling Attention Flow on Graphs [[paper]](http://arxiv.org/abs/1811.00497) 
+- [x] [IJCAI2021] [MAGNA] Multi-hop Attention Graph Neural Network [[paper]](http://arxiv.org/abs/2009.14332) [[code]](https://github.com/xjtuwgt/gnn-magna)
 
 
-- [x] [CVPR2020] [DKGAT] Distilling Knowledge from Graph Convolutional Networks
-- [x] [ICCV2021] [DAGL] Dynamic Attentive Graph Learning for Image Restoration
-- [x] [AAAI2021] [SCGA] Structured Co-reference Graph Attention for Video-grounded Dialogue
-- [x] [AAAI2021] [Co-GAT] Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act Recognition and Sentiment Classification
-- [x] [ACL2020] [ED-GAT] Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification
-- [x] [EMNLP2019] [TD-GAT] Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
-- [x] [WWW2020] [GATON] Graph Attention Topic Modeling Network
-- [x] [KDD2017] [GRAM] GRAM: Graph-based attention model for healthcare representation learning
-- [x] [IJCAI2019] [SPAGAN] SPAGAN: Shortest Path Graph Attention Network
-- [x] [PKDD2021] [PaGNN] Inductive Link Prediction with Interactive Structure Learning on Attributed Graph
-- [x] [arXiv2019] [DeepLinker] Link Prediction via Graph Attention Network
-- [x] [IJCNN2020] [CGAT] Heterogeneous Information Network Embedding with Convolutional Graph Attention Networks
-- [x] [ICLR2020] [ADSF] Adaptive Structural Fingerprints for Graph Attention Networks
-- [x] [KDD2021] [T-GAP] Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion
-- [x] [NeurIPS2018] [MAF] Modeling Attention Flow on Graphs
-- [x] [IJCAI2021] [MAGNA] Multi-hop Attention Graph Neural Network
 - [x] [AAAI2020] [SNEA] Learning Signed Network Embedding via Graph Attention
 - [x] [ICANN2019] [SiGAT] Signed Graph Attention Networks
 - [x] [ICLR2019] [RGAT] Relational Graph Attention Networks
