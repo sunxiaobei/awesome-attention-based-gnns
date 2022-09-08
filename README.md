@@ -67,30 +67,28 @@
 - [x] [KDD2021] [T-GAP] Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion [[paper]](https://doi.org/10.1145/3447548.3467292) [[code]](https://github.com/sharkmir1/T-GAP)
 - [x] [NeurIPS2018] [MAF] Modeling Attention Flow on Graphs [[paper]](http://arxiv.org/abs/1811.00497) 
 - [x] [IJCAI2021] [MAGNA] Multi-hop Attention Graph Neural Network [[paper]](http://arxiv.org/abs/2009.14332) [[code]](https://github.com/xjtuwgt/gnn-magna)
-
-
-- [x] [AAAI2020] [SNEA] Learning Signed Network Embedding via Graph Attention
-- [x] [ICANN2019] [SiGAT] Signed Graph Attention Networks
-- [x] [ICLR2019] [RGAT] Relational Graph Attention Networks
-- [x] [arXiv2018] [EAGCN] Edge attention-based multi-relational graph convolutional networks
-- [x] [KDD2021] [WRGNN] Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns
-- [x] [AAAI2020] [HetSANN] An Attention-based Graph Neural Network for Heterogeneous Structural Learning
-- [x] [AAAI2020] [TALP] Type-Aware Anchor Link Prediction across Heterogeneous Networks Based on Graph Attention Network
-- [x] [KDD2019] [KGAT] KGAT: Knowledge Graph Attention Network for Recommendation
-- [x] [KDD2019] [GATNE] Representation Learning for Attributed Multiplex Heterogeneous Network
-- [x] [AAAI2021] [RelGNN] Relation-aware Graph Attention Model With Adaptive Self-adversarial Training
-- [x] [KDD2020] [CGAT] Graph Attention Networks over Edge Content-Based Channels
-- [x] [ACL2019] [AFE] Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs
-- [x] [CIKM2021] [DisenKGAT] DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network
-- [x] [AAAI2021] [GTAN] Graph-Based Tri-Attention Network for Answer Ranking in CQA
-- [x] [ACL2020] [R-GAT] Relational Graph Attention Network for Aspect-based Sentiment Analysis
-- [x] [ICCV2019] [ReGAT] Relation-Aware Graph Attention Network for Visual Question Answering
-- [x] [AAAI2021] [AD-GAT] Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks
-- [x] [NeurIPS2018] [GAW] Watch your step: learning node embeddings via graph attention
-- [x] [TPAMI2021] [NLGAT] Non-Local Graph Neural Networks
-- [x] [NeurIPS2019] [ChebyGIN] Understanding Attention and Generalization in Graph Neural Networks
-- [x] [ICML2019] [SAGPool] Self-Attention Graph Pooling
-- [x] [ICCV2019] [Attpool] Attpool: Towards hierarchical feature representation in graph convolutional networks via attention mechanism
+- [x] [AAAI2020] [SNEA] Learning Signed Network Embedding via Graph Attention [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5911) 
+- [x] [ICANN2019] [SiGAT] Signed Graph Attention Networks [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-30493-5_53) 
+- [x] [ICLR2019] [RGAT] Relational Graph Attention Networks [[paper]](http://arxiv.org/abs/1904.05811) [[code]](https://github.com/babylonhealth/rgat)
+- [x] [arXiv2018] [EAGCN] Edge attention-based multi-relational graph convolutional networks [[paper]](http://arxiv.org/abs/1802.04944) [[code]](https://github.com/Luckick/EAGCN)
+- [x] [KDD2021] [WRGNN] Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns [[paper]](https://doi.org/10.1145/3447548.3467373) [[code]](https://github.com/susheels/gnns-and-local-assortativity)
+- [x] [AAAI2020] [HetSANN] An Attention-based Graph Neural Network for Heterogeneous Structural Learning [[paper]](http://arxiv.org/abs/1912.10832) [[code]](https://github.com/didi/hetsann)
+- [x] [AAAI2020] [TALP] Type-Aware Anchor Link Prediction across Heterogeneous Networks Based on Graph Attention Network [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5345) 
+- [x] [KDD2019] [KGAT] KGAT: Knowledge Graph Attention Network for Recommendation [[paper]](http://arxiv.org/abs/1905.07854) [[code]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+- [x] [KDD2019] [GATNE] Representation Learning for Attributed Multiplex Heterogeneous Network [[paper]](https://doi.org/10.1145/3292500.3330964) [[code]](https://github.com/THUDM/GATNE)
+- [x] [AAAI2021] [RelGNN] Relation-aware Graph Attention Model With Adaptive Self-adversarial Training [[paper]](http://arxiv.org/abs/2102.07186) 
+- [x] [KDD2020] [CGAT] Graph Attention Networks over Edge Content-Based Channels [[paper]](https://doi.org/10.1145/3394486.3403233) 
+- [x] [ACL2019] [AFE] Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs [[paper]](http://arxiv.org/abs/1906.01195) [[code]](https://github.com/deepakn97/relationPrediction)
+- [x] [CIKM2021] [DisenKGAT] DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network [[paper]](https://arxiv.org/abs/2108.09628v2) 
+- [x] [AAAI2021] [GTAN] Graph-Based Tri-Attention Network for Answer Ranking in CQA [[paper]](http://arxiv.org/abs/2103.03583) 
+- [x] [ACL2020] [R-GAT] Relational Graph Attention Network for Aspect-based Sentiment Analysis [[paper]](http://arxiv.org/abs/2004.12362) [[code]](https://github.com/shenwzh3/RGAT-ABSA)
+- [x] [ICCV2019] [ReGAT] Relation-Aware Graph Attention Network for Visual Question Answering [[paper]](https://arxiv.org/abs/1903.12314v3) [[code]](https://github.com/linjieli222/VQA_ReGAT)
+- [x] [AAAI2021] [AD-GAT] Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16077) 
+- [x] [NeurIPS2018] [GAW] Watch your step: learning node embeddings via graph attention [[paper]](https://arxiv.org/abs/1710.09599v2) 
+- [x] [TPAMI2021] [NLGAT] Non-Local Graph Neural Networks [[paper]](https://arxiv.org/abs/2005.14612) 
+- [x] [NeurIPS2019] [ChebyGIN] Understanding Attention and Generalization in Graph Neural Networks [[paper]](http://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks.pdf) [[code]](https://github.com/bknyaz/graph_attention_pool)
+- [x] [ICML2019] [SAGPool] Self-Attention Graph Pooling [[paper]](http://proceedings.mlr.press/v97/lee19c.html) [[code]](https://github.com/inyeoplee77/SAGPool)
+- [x] [ICCV2019] [Attpool] Attpool: Towards hierarchical feature representation in graph convolutional networks via attention mechanism [[paper]](https://ieeexplore.ieee.org/document/9009471) 
 - [x] [WWW2019] [HAN] Heterogeneous Graph Attention Network
 - [x] [NC2022] [PSHGAN] Heterogeneous graph embedding by aggregating meta-path and meta-structure through attention mechanism
 - [x] [IJCAI2017] [PRML] Link prediction via ranking metric dual-level attention network learning
