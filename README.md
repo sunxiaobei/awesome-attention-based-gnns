@@ -89,20 +89,22 @@
 - [x] [NeurIPS2019] [ChebyGIN] Understanding Attention and Generalization in Graph Neural Networks [[paper]](http://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks.pdf) [[code]](https://github.com/bknyaz/graph_attention_pool)
 - [x] [ICML2019] [SAGPool] Self-Attention Graph Pooling [[paper]](http://proceedings.mlr.press/v97/lee19c.html) [[code]](https://github.com/inyeoplee77/SAGPool)
 - [x] [ICCV2019] [Attpool] Attpool: Towards hierarchical feature representation in graph convolutional networks via attention mechanism [[paper]](https://ieeexplore.ieee.org/document/9009471) 
-- [x] [WWW2019] [HAN] Heterogeneous Graph Attention Network
-- [x] [NC2022] [PSHGAN] Heterogeneous graph embedding by aggregating meta-path and meta-structure through attention mechanism
-- [x] [IJCAI2017] [PRML] Link prediction via ranking metric dual-level attention network learning
-- [x] [WSDM2022] [GraphHAM] Graph Embedding with Hierarchical Attentive Membership
-- [x] [AAAI2020] [RGHAT] Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
-- [x] [AAAI2019] [LAN] Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding
-- [x] [ICLR2022] [EFEGAT] Learning to Solve an Order Fulfillment Problem in Milliseconds with Edge-Feature-Embedded Graph Attention
-- [x] [WWW2019] [DANSER] Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems
-- [x] [WWW2019] [UVCAN] User-Video Co-Attention Network for Personalized Micro-video Recommendation
-- [x] [KBS2020] [HAGERec] HAGERec: Hierarchical Attention Graph Convolutional Network Incorporating Knowledge Graph for Explainable Recommendation
-- [x] [Bio2021] [GCATSL] Graph contextualized attention network for predicting synthetic lethality in human cancers
-- [x] [ICMR2020] [DAGC] DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition
-- [x] [AAAI2020] [AGCN] Graph Attention Based Proposal 3D ConvNets for Action Detection
-- [x] [EMNLP2019] [HGAT] HGAT: Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification
+- [x] [WWW2019] [HAN] Heterogeneous Graph Attention Network [[paper]](https://doi.org/10.1145/3308558.3313562) [[code]]( https://github.com/Jhy1993/HAN)
+- [x] [NC2022] [PSHGAN] Heterogeneous graph embedding by aggregating meta-path and meta-structure through attention mechanism [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S092523122101479X) 
+- [x] [IJCAI2017] [PRML] Link prediction via ranking metric dual-level attention network learning [[paper]](https://www.ijcai.org/proceedings/2017/493) 
+- [x] [WSDM2022] [GraphHAM] Graph Embedding with Hierarchical Attentive Membership [[paper]](http://arxiv.org/abs/2111.00604) 
+- [x] [AAAI2020] [RGHAT] Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6508) 
+- [x] [AAAI2019] [LAN] Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding [[paper]](https://doi.org/10.1609/aaai.v33i01.33017152) [[code]](https://github.com/wangpf3/LAN)
+- [x] [ICLR2022] [EFEGAT] Learning to Solve an Order Fulfillment Problem in Milliseconds with Edge-Feature-Embedded Graph Attention [[paper]](https://openreview.net/forum?id=qPQRIj_Y_EW) 
+- [x] [WWW2019] [DANSER] Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems [[paper]](https://doi.org/10.1145/3308558.3313442) [[code]](https://github.com/echo740/DANSER-WWW-19)
+- [x] [WWW2019] [UVCAN] User-Video Co-Attention Network for Personalized Micro-video Recommendation [[paper]](https://doi.org/10.1145/3308558.3313513) 
+- [x] [KBS2020] [HAGERec] HAGERec: Hierarchical Attention Graph Convolutional Network Incorporating Knowledge Graph for Explainable Recommendation [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705120304196) 
+- [x] [Bio2021] [GCATSL] Graph contextualized attention network for predicting synthetic lethality in human cancers [[paper]](https://doi.org/10.1093/bioinformatics/btab110) [[code]](https://github.com/longyahui/GCATSL)
+- [x] [ICMR2020] [DAGC] DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition [[paper]](https://doi.org/10.1145/3372278.3390693) [[code]](https://github.com/dawenzi123/DAGCN)
+- [x] [AAAI2020] [AGCN] Graph Attention Based Proposal 3D ConvNets for Action Detection [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5893) 
+- [x] [EMNLP2019] [HGAT] HGAT: Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification [[paper]](https://dl.acm.org/doi/10.1145/3450352) [[code]](https://github.com/ytc272098215/HGAT)
+
+
 - [x] [ICLR2020] [Hyper-SAGNN] Hyper-Sagnn: A Self-Attention based Graph Neural Network for Hypergraphs
 - [x] [CIKM2021] [HHGR] Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation
 - [x] [ICDM2021] [HyperTeNet] HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation
