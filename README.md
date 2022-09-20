@@ -103,27 +103,27 @@
 - [x] [ICMR2020] [DAGC] DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition [[paper]](https://doi.org/10.1145/3372278.3390693) [[code]](https://github.com/dawenzi123/DAGCN)
 - [x] [AAAI2020] [AGCN] Graph Attention Based Proposal 3D ConvNets for Action Detection [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5893) 
 - [x] [EMNLP2019] [HGAT] HGAT: Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification [[paper]](https://dl.acm.org/doi/10.1145/3450352) [[code]](https://github.com/ytc272098215/HGAT)
+- [x] [ICLR2020] [Hyper-SAGNN] Hyper-Sagnn: A Self-Attention based Graph Neural Network for Hypergraphs [[paper]](http://arxiv.org/abs/1911.02613) [[code]](https://github.com/ma-compbio/Hyper-SAGNN)
+- [x] [CIKM2021] [HHGR] Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation [[paper]](http://arxiv.org/abs/2109.04200) [[code]](https://github.com/0411tony/hhgr)
+- [x] [ICDM2021] [HyperTeNet] HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation [[paper]](http://arxiv.org/abs/2110.01467) [[code]](https://github.com/mvijaikumar/hypertenet)
+- [x] [PR2020] [Hyper-GAT] Hypergraph Convolution and Hypergraph Attention [[paper]](http://arxiv.org/abs/1901.08150) [[code]](https://github.com/rusty1s/pytorch_geometric)
+- [x] [CVPR2020] [] Hypergraph attention networks for multimodal learning [[paper]](https://ieeexplore.ieee.org/document/9157723) 
+- [x] [KDD2020] [DAGNN] Towards Deeper Graph Neural Networks [[paper]](https://doi.org/10.1145/3394486.3403076) [[code]](https://github.com/divelab/DeeperGNN)
+- [x] [T-NNLS2020] [AP-GCN]  Adaptive propagation graph convolutional network [[paper]](https://arxiv.org/abs/2002.10306) [[code]](https://github.com/spindro/AP-GCN)
+- [x] [CIKM2021] [TDGNN] Tree Decomposed Graph Neural Network [[paper]](https://doi.org/10.1145/3459637.3482487) [[code]](https://github.com/YuWVandy/TDGNN)
+- [x] [ICLR2022] [GAMLP] Graph Attention Multi-layer Perceptron [[paper]](http://arxiv.org/abs/2108.10097) [[code]](https://github.com/zwt233/GAMLP)
+- [x] [AAAI2021] [FAGCN] Beyond Low-frequency Information in Graph Convolutional Networks [[paper]](http://arxiv.org/abs/2101.00797) [[code]](https://github.com/bdy9527/FAGCN)
+- [x] [arXiv2021] [ACM] Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification? [[paper]](http://arxiv.org/abs/2109.05641) 
+- [x] [KDD2020] [AM-GCN] AM-GCN: Adaptive Multi-channel Graph Convolutional Networks [[paper]](https://doi.org/10.1145/3394486.3403177) [[code]](https://github.com/zhumeiqiBUPT/AM-GCN)
+- [x] [AAAI2021] [UAG] Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks [[paper]](http://arxiv.org/abs/2009.10235) 
+- [x] [CIKM2021] [MV-GNN] Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks [[paper]](https://doi.org/10.1145/3459637.3482477) 
+- [x] [KSEM2021] [GENet] Graph Ensemble Networks for Semi-supervised Embedding Learning [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-030-82136-4_33) 
+- [x] [NN2020] [MGAT] MGAT: Multi-view Graph Attention Networks [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608020303105) 
+- [x] [CIKM2017] [MVE] An Attention-based Collaboration Framework for Multi-View Network Representation Learning [[paper]](https://doi.org/10.1145/3132847.3133021) 
+- [x] [NC2021] [EAGCN] Multi-view spectral graph convolution with consistent edge attention for molecular modeling [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100271X) 
+- [x] [SIGIR2020] [GCE-GNN] Global Context Enhanced Graph Neural Networks for Session-based Recommendation [[paper]](http://arxiv.org/abs/2106.05081) 
 
 
-- [x] [ICLR2020] [Hyper-SAGNN] Hyper-Sagnn: A Self-Attention based Graph Neural Network for Hypergraphs
-- [x] [CIKM2021] [HHGR] Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation
-- [x] [ICDM2021] [HyperTeNet] HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation
-- [x] [PR2020] [Hyper-GAT] Hypergraph Convolution and Hypergraph Attention
-- [x] [CVPR2020] [] Hypergraph attention networks for multimodal learning
-- [x] [KDD2020] [DAGNN] Towards Deeper Graph Neural Networks
-- [x] [T-NNLS2020] [AP-GCN]  Adaptive propagation graph convolutional network
-- [x] [CIKM2021] [TDGNN] Tree Decomposed Graph Neural Network
-- [x] [ICLR2022] [GAMLP] Graph Attention Multi-layer Perceptron
-- [x] [AAAI2021] [FAGCN] Beyond Low-frequency Information in Graph Convolutional Networks
-- [x] [arXiv2021] [ACM] Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?
-- [x] [KDD2020] [AM-GCN] AM-GCN: Adaptive Multi-channel Graph Convolutional Networks
-- [x] [AAAI2021] [UAG] UAG: Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks
-- [x] [CIKM2021] [MV-GNN] Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks
-- [x] [KSEM2021] [GENet] Graph Ensemble Networks for Semi-supervised Embedding Learning
-- [x] [NN2020] [MGAT] MGAT: Multi-view Graph Attention Networks
-- [x] [CIKM2017] [MVE] An Attention-based Collaboration Framework for Multi-View Network Representation Learning
-- [x] [NC2021] [EAGCN] Multi-view spectral graph convolution with consistent edge attention for molecular modeling
-- [x] [SIGIR2020] [GCE-GNN] Global Context Enhanced Graph Neural Networks for Session-based Recommendation
 - [x] [ICLR2019] [DySAT] Dynamic Graph Representation Learning via Self-Attention Networks
 - [x] [PAKDD2020] [TemporalGAT] TemporalGAT: Attention-Based Dynamic Graph Representation Learning
 - [x] [IJCAI2021] [GAEN] GAEN: Graph Attention Evolving Networks
