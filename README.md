@@ -122,25 +122,22 @@
 - [x] [CIKM2017] [MVE] An Attention-based Collaboration Framework for Multi-View Network Representation Learning [[paper]](https://doi.org/10.1145/3132847.3133021) 
 - [x] [NC2021] [EAGCN] Multi-view spectral graph convolution with consistent edge attention for molecular modeling [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100271X) 
 - [x] [SIGIR2020] [GCE-GNN] Global Context Enhanced Graph Neural Networks for Session-based Recommendation [[paper]](http://arxiv.org/abs/2106.05081) 
-
-
-- [x] [ICLR2019] [DySAT] Dynamic Graph Representation Learning via Self-Attention Networks
-- [x] [PAKDD2020] [TemporalGAT] TemporalGAT: Attention-Based Dynamic Graph Representation Learning
-- [x] [IJCAI2021] [GAEN] GAEN: Graph Attention Evolving Networks
-- [x] [CIKM2019] [MMDNE] Temporal Network Embedding with Micro- and Macro-dynamics
-- [x] [ICLR2020] [TGAT] Inductive Representation Learning on Temporal Graphs
-- [x] [ICLR2022] [TR-GAT] Time-Aware Relational Graph Attention Network for Temporal Knowledge Graph Embeddings
-- [x] [CVPR2022] [T-GNN] Adaptive Trajectory Prediction via Transferable GNN
-- [x] [AAAI2018] [ST-GCN] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
-- [x] [AAAI2020] [GMAN] GMAN: A Graph Multi-Attention Network for Traffic Prediction
-- [x] [AAAI2019] [ASTGCN] Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting
-- [x] [KDD2020] [ConSTGAT] ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
-- [x] [ICLR2022] [RainDrop] Graph-Guided Network for Irregularly Sampled Multivariate Time Series
-- [x] [ICLR2021] [mTAND] Multi-Time Attention Networks for Irregularly Sampled Time Series
-- [x] [ICDM2020] [MTAD-GAT] Multivariate Time-series Anomaly Detection via Graph Attention Network
-- [x] [WWW2020] [GACNN] Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems
-- [x] [IJCAI2018] [GeoMAN] GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction
-- [ ] 
+- [x] [ICLR2019] [DySAT] Dynamic Graph Representation Learning via Self-Attention Networks [[paper]](https://arxiv.org/abs/1812.09430v2) [[code]](https://github.com/aravindsankar28/DySAT)
+- [x] [PAKDD2020] [TemporalGAT] TemporalGAT: Attention-Based Dynamic Graph Representation Learning [[paper]](https://dl.acm.org/doi/10.1007/978-3-030-47426-3_32) 
+- [x] [IJCAI2021] [GAEN] GAEN: Graph Attention Evolving Networks [[paper]](https://www.ijcai.org/proceedings/2021/213) [[code]](https://github.com/codeshareabc/GAEN)
+- [x] [CIKM2019] [MMDNE] Temporal Network Embedding with Micro- and Macro-dynamics [[paper]](https://doi.org/10.1145/3357384.3357943) [[code]](https://github.com/rootlu/MMDNE)
+- [x] [ICLR2020] [TGAT] Inductive Representation Learning on Temporal Graphs [[paper]](http://arxiv.org/abs/2002.07962) [[code]](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)
+- [x] [ICLR2022] [TR-GAT] Time-Aware Relational Graph Attention Network for Temporal Knowledge Graph Embeddings [[paper]](https://openreview.net/forum?id=ShtJLsF7cbb) 
+- [x] [CVPR2022] [T-GNN] Adaptive Trajectory Prediction via Transferable GNN [[paper]](http://arxiv.org/abs/2203.05046) 
+- [x] [AAAI2018] [ST-GCN] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17135) [[code]](https://github.com/yysijie/st-gcn)
+- [x] [AAAI2020] [GMAN] GMAN: A Graph Multi-Attention Network for Traffic Prediction [[paper]](http://arxiv.org/abs/1911.08415) 
+- [x] [AAAI2019] [ASTGCN] Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3881) [[code]](https://github.com/Davidham3/ASTGCN)
+- [x] [KDD2020] [ConSTGAT] ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps [[paper]](https://doi.org/10.1145/3394486.3403320) 
+- [x] [ICLR2022] [RainDrop] Graph-Guided Network for Irregularly Sampled Multivariate Time Series [[paper]](http://arxiv.org/abs/2110.05357) 
+- [x] [ICLR2021] [mTAND] Multi-Time Attention Networks for Irregularly Sampled Time Series [[paper]](http://arxiv.org/abs/2101.10318) [[code]](https://github.com/reml-lab/mTAN)
+- [x] [ICDM2020] [MTAD-GAT] Multivariate Time-series Anomaly Detection via Graph Attention Network [[paper]](http://arxiv.org/abs/2009.02040) 
+- [x] [WWW2020] [GACNN] Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems [[paper]](https://dl.acm.org/doi/10.1145/3366423.3380097) 
+- [x] [IJCAI2018] [GeoMAN] GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction [[paper]](https://www.ijcai.org/proceedings/2018/476) 
 ## GraphTransformers
 - [x] [2019] [GTR] Graph transformer
 - [x] [2020] [U2GNN] Universal Self-Attention Network for Graph Classification
