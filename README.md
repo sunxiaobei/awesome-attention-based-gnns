@@ -139,32 +139,30 @@
 - [x] [WWW2020] [GACNN] Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems [[paper]](https://dl.acm.org/doi/10.1145/3366423.3380097) 
 - [x] [IJCAI2018] [GeoMAN] GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction [[paper]](https://www.ijcai.org/proceedings/2018/476) 
 ## GraphTransformers
-- [x] [2019] [GTR] Graph transformer
-- [x] [2020] [U2GNN] Universal Self-Attention Network for Graph Classification
-- [x] [WWW2022] [UGformer] Universal Graph Transformer Self-Attention Networks
-- [x] [ICLR2021] [GMT] Accurate learning of graph representations with graph multiset pooling
-- [x] [KDDCup2021] [Graphormer] Do Transformers Really Perform Bad for Graph Representation?
-- [x] [NeurIPS2021] [Graphormer] Do Transformers Really Perform Bad for Graph Representation?
-- [x] [NeurIPS2021] [HOT] Transformers Generalize DeepSets and Can be Extended to Graphs and Hypergraphs
-- [x] [NeurIPS2020] [GROVER] Self-Supervised Graph Transformer on Large-Scale Molecular Data
-- [x] [ICML(Workshop)2019] [PAGAT] Path-augmented graph transformer network
-- [x] [AAAI2021] [GTA] GTA: Graph Truncated Attention for Retrosynthesis
-- [x] [AAAI2021] [GT] A generalization of transformer networks to graphs
-- [x] [NeurIPS2021] [SAN] Rethinking graph transformers with spectral attention
-- [x] [2020] [GraphBert] Graph-bert: Only attention is needed for learning graph representations
-- [x] [ICML2021] [] Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks
-- [x] [IJCAI2021] [UniMP] Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification
-- [x] [NeurIPS2019] [GTN] Graph Transformer Networks
-- [x] [KDD2020] [TagGen] A Data-Driven Graph Generative Model for Temporal Interaction Networks
-- [x] [NeurIPS2021] [GraphFormers] GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph
-- [x] [WWW2020] [HGT] Heterogeneous Graph Transformer
-- [x] [AAAI2020] [GTOS] Graph transformer for graph-to-sequence learning
-- [x] [NAACL2019] [GraphWriter] Text Generation from Knowledge Graphs with Graph Transformers
-- [x] [AAAI2021] [KHGT] Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation
-- [x] [AAAI2021] [GATE] GATE: Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction
-- [x] [NeurIPS2021] [STAGIN] Learning Dynamic Graph Representation of Brain Connectome with Spatio-Temporal Attention
-- [ ] 
-
+- [x] [arXiv2019] [GTR] Graph transformer [[paper]](https://openreview.net/forum?id=HJei-2RcK7) 
+- [x] [arXiv2020] [U2GNN] Universal Self-Attention Network for Graph Classification [[paper]](http://arxiv.org/abs/1909.11855) [[code]](https://github.com/daiquocnguyen/Graph-Transformer)
+- [x] [WWW2022] [UGformer] Universal Graph Transformer Self-Attention Networks [[paper]](http://arxiv.org/abs/1909.11855) [[code]](https://github.com/daiquocnguyen/Graph-Transformer)
+- [x] [ICLR2021] [GMT] Accurate learning of graph representations with graph multiset pooling [[paper]](http://arxiv.org/abs/2102.11533) [[code]](https://github.com/JinheonBaek/GMT)
+- [x] [KDDCup2021] [Graphormer] Do Transformers Really Perform Bad for Graph Representation? [[paper]](http://arxiv.org/abs/2106.08279) [[code]](https://github.com/microsoft/Graphormer)
+- [x] [NeurIPS2021] [Graphormer] Do Transformers Really Perform Bad for Graph Representation? [[paper]](http://arxiv.org/abs/2106.05234) [[code]](https://github.com/microsoft/Graphormer)
+- [x] [NeurIPS2021] [HOT] Transformers Generalize DeepSets and Can be Extended to Graphs and Hypergraphs [[paper]](http://arxiv.org/abs/2110.14416) [[code]](https://github.com/jw9730/hot)
+- [x] [NeurIPS2020] [GROVER] Self-Supervised Graph Transformer on Large-Scale Molecular Data [[paper]](http://arxiv.org/abs/2007.02835) [[code]](https://github.com/tencent-ailab/grover)
+- [x] [ICML(Workshop)2019] [PAGAT] Path-augmented graph transformer network [[paper]](https://arxiv.org/abs/1905.12712) [[code]](https://github.com/benatorc/PA-Graph-Transformer)
+- [x] [AAAI2021] [GTA] GTA: Graph Truncated Attention for Retrosynthesis [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16131) 
+- [x] [AAAI2021] [GT] A generalization of transformer networks to graphs [[paper]](http://arxiv.org/abs/2012.09699) [[code]](https://github.com/graphdeeplearning/graphtransformer)
+- [x] [NeurIPS2021] [SAN] Rethinking graph transformers with spectral attention [[paper]](http://arxiv.org/abs/2106.03893) [[code]](https://github.com/DevinKreuzer/SAN)
+- [x] [2020] [GraphBert] Graph-bert: Only attention is needed for learning graph representations [[paper]](http://arxiv.org/abs/2001.05140) [[code]](https://github.com/jwzhanggy/Graph-Bert)
+- [x] [ICML2021] [] Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks [[paper]](http://arxiv.org/abs/2103.04886) 
+- [x] [IJCAI2021] [UniMP] Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification [[paper]](http://arxiv.org/abs/2009.03509) [[code]](https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp)
+- [x] [NeurIPS2019] [GTN] Graph Transformer Networks [[paper]](http://arxiv.org/abs/1911.06455) [[code]](https://github.com/seongjunyun/Graph_Transformer_Networks)
+- [x] [KDD2020] [TagGen] A Data-Driven Graph Generative Model for Temporal Interaction Networks [[paper]](https://doi.org/10.1145/3394486.3403082) 
+- [x] [NeurIPS2021] [GraphFormers] GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph [[paper]](http://arxiv.org/abs/2105.02605) 
+- [x] [WWW2020] [HGT] Heterogeneous Graph Transformer [[paper]](https://doi.org/10.1145/3366423.3380027) 
+- [x] [AAAI2020] [GTOS] Graph transformer for graph-to-sequence learning [[paper]](http://arxiv.org/abs/1911.07470) [[code]](https://github.com/jcyk/gtos)
+- [x] [NAACL2019] [GraphWriter] Text Generation from Knowledge Graphs with Graph Transformers [[paper]](http://arxiv.org/abs/1904.02342) [[code]](https://github.com/rikdz/GraphWriter)
+- [x] [AAAI2021] [KHGT] Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16576) [[code]](https://github.com/akaxlh/KHGT)
+- [x] [AAAI2021] [GATE] GATE: Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction [[paper]](http://arxiv.org/abs/2010.03009) 
+- [x] [NeurIPS2021] [STAGIN] Learning Dynamic Graph Representation of Brain Connectome with Spatio-Temporal Attention [[paper]](http://arxiv.org/abs/2105.13495) [[code]](https://github.com/egyptdj/stagin)
 
 
 - [x] [journal] [model] paper_title [[paper]](link) [[code]](link)
