@@ -20,17 +20,21 @@
 
 ## GRANs
 
-- [x] [ICLR2016] [GGNN] Gated Graph Sequence Neural Networks [[paper]](http://arxiv.org/abs/1511.05493) [[code]](https://github.com/yujiali/ggnn)
+### GRU Attention
+
+- [x] [ICLR2021] [GR-GAT] Gated Relational Graph Attention Networks [[paper]](https://openreview.net/forum?id=v-9E8egy_i) 
+- [x] [T-SP2020] [GRNN] Gated Graph Recurrent Neural Networks [[paper]](https://arxiv.org/abs/2002.01038) 
+- [x] [NeurIPS2019] [GRAN] Efficient Graph Generation with Graph Recurrent Attention Networks [[paper]](http://arxiv.org/abs/1910.00760) [[code]](https://github.com/lrjconan/GRAN)
 - [x] [UAI2018] [GaAN] GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs [[paper]](http://arxiv.org/abs/1803.07294) [[code]](https://github.com/jennyzhang0215/GaAN)
 - [x] [ICML2018] [GraphRNN] Graphrnn: Generating realistic graphs with deep auto-regressive models [[paper]](http://arxiv.org/abs/1802.08773) [[code]](https://github.com/snap-stanford/GraphRNN)
-- [x] [NeurIPS2019] [GRAN] Efficient Graph Generation with Graph Recurrent Attention Networks [[paper]](http://arxiv.org/abs/1910.00760) [[code]](https://github.com/lrjconan/GRAN)
-- [x] [T-SP2020] [GRNN] Gated Graph Recurrent Neural Networks [[paper]](https://arxiv.org/abs/2002.01038) 
-- [x] [ICLR2021] [GR-GAT] Gated Relational Graph Attention Networks [[paper]](https://openreview.net/forum?id=v-9E8egy_i) 
-- [x] [NeurIPS2017] [GraphSage] Inductive representation learning on large graphs [[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/williamleif/GraphSAGE)
+- [x] [ICLR2016] [GGNN] Gated Graph Sequence Neural Networks [[paper]](http://arxiv.org/abs/1511.05493) [[code]](https://github.com/yujiali/ggnn)
+
+### LSTM Attention
+
+- [x] [AAAI2019] [GeniePath] GeniePath: Graph Neural Networks with Adaptive Receptive Paths [[paper]](http://arxiv.org/abs/1802.00910) 
 - [x] [ICML2018] [JK-Net] Representation Learning on Graphs with Jumping Knowledge Networks [[paper]](http://proceedings.mlr.press/v80/xu18c.html) 
 - [x] [KDD2018] [GAM] Graph Classification using Structural Attention [[paper]](https://doi.org/10.1145/3219819.3219980) [[code]](https://github.com/benedekrozemberczki/GAM)
-- [x] [AAAI2019] [GeniePath] GeniePath: Graph Neural Networks with Adaptive Receptive Paths [[paper]](http://arxiv.org/abs/1802.00910) 
-
+- [x] [NeurIPS2017] [GraphSage] Inductive representation learning on large graphs [[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/williamleif/GraphSAGE)
 
 ## GATs
 
