@@ -169,4 +169,8 @@
 - [x] [NeurIPS2021] [STAGIN] Learning Dynamic Graph Representation of Brain Connectome with Spatio-Temporal Attention [[paper]](http://arxiv.org/abs/2105.13495) [[code]](https://github.com/egyptdj/stagin)
 
 
+## Next
+
 - [x] [journal] [model] paper_title [[paper]](link) [[code]](link)
+
+## Citation
