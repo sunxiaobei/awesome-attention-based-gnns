@@ -45,6 +45,8 @@
 - [x] [KDD2021] [Simple-HGN] Are we really making much progress? Revisiting, benchmarking and refining heterogeneous graph neural networks [[paper]](https://doi.org/10.1145/3447548.3467350) [[code]](https://github.com/THUDM/HGB)
 - [x] [ICLR2022] [PPRGAT] Personalized PageRank Meets Graph Attention Networks [[paper]](https://openreview.net/forum?id=XNYOJD0QdBD) 
 - [x] [ICLR2021] [SuperGAT] How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty) [[code]](https://github.com/dongkwan-kim/SuperGAT)
+- [x] [IJCAI2020] [CPA] Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation [[paper]](https://pubmed.ncbi.nlm.nih.gov/32782421/) [[code]](https://github.com/zetayue/CPA)
+- [ ] 
 - [x] [KDD2019] [GANet] Graph Representation Learning via Hard and Channel-Wise Attention Networks [[paper]](https://doi.org/10.1145/3292500.3330897) 
 - [x] [NeurIPS2021] [CAT] Learning Conjoint Attentions for Graph Neural Nets [[paper]](http://arxiv.org/abs/2102.03147) [[code]](https://github.com/he-tiantian/cats)
 - [x] [TransNNLS2021] [MSNA] Neighborhood Attention Networks With Adversarial Learning for Link Prediction [[paper]](https://ieeexplore.ieee.org/document/9174790) 
