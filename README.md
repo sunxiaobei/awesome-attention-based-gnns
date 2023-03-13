@@ -46,7 +46,6 @@
 - [x] [ICLR2022] [PPRGAT] Personalized PageRank Meets Graph Attention Networks [[paper]](https://openreview.net/forum?id=XNYOJD0QdBD) 
 - [x] [ICLR2021] [SuperGAT] How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty) [[code]](https://github.com/dongkwan-kim/SuperGAT)
 - [x] [IJCAI2020] [CPA] Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation [[paper]](https://pubmed.ncbi.nlm.nih.gov/32782421/) [[code]](https://github.com/zetayue/CPA)
-- [ ] 
 - [x] [KDD2019] [GANet] Graph Representation Learning via Hard and Channel-Wise Attention Networks [[paper]](https://doi.org/10.1145/3292500.3330897) 
 - [x] [NeurIPS2021] [CAT] Learning Conjoint Attentions for Graph Neural Nets [[paper]](http://arxiv.org/abs/2102.03147) [[code]](https://github.com/he-tiantian/cats)
 - [x] [TransNNLS2021] [MSNA] Neighborhood Attention Networks With Adversarial Learning for Link Prediction [[paper]](https://ieeexplore.ieee.org/document/9174790) 
@@ -65,6 +64,7 @@
 - [x] [EMNLP2019] [TD-GAT] Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks [[paper]](http://arxiv.org/abs/1909.02606) 
 - [x] [WWW2020] [GATON] Graph Attention Topic Modeling Network [[paper]](https://doi.org/10.1145/3366423.3380102) 
 - [x] [KDD2017] [GRAM] GRAM: Graph-based attention model for healthcare representation learning [[paper]](https://doi.org/10.1145/3097983.3098126) [[code]](https://github.com/mp2893/gram)
+- [ ] 
 - [x] [IJCAI2019] [SPAGAN] SPAGAN: Shortest Path Graph Attention Network [[paper]](https://www.ijcai.org/proceedings/2019/569) 
 - [x] [PKDD2021] [PaGNN] Inductive Link Prediction with Interactive Structure Learning on Attributed Graph [[paper]](https://link.springer.com/book/10.1007/978-3-030-86486-6) 
 - [x] [arXiv2019] [DeepLinker] Link Prediction via Graph Attention Network [[paper]](http://arxiv.org/abs/1910.04807) 
@@ -73,6 +73,7 @@
 - [x] [KDD2021] [T-GAP] Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion [[paper]](https://doi.org/10.1145/3447548.3467292) [[code]](https://github.com/sharkmir1/T-GAP)
 - [x] [NeurIPS2018] [MAF] Modeling Attention Flow on Graphs [[paper]](http://arxiv.org/abs/1811.00497) 
 - [x] [IJCAI2021] [MAGNA] Multi-hop Attention Graph Neural Network [[paper]](http://arxiv.org/abs/2009.14332) [[code]](https://github.com/xjtuwgt/gnn-magna)
+- [ ] 
 - [x] [AAAI2020] [SNEA] Learning Signed Network Embedding via Graph Attention [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5911) 
 - [x] [ICANN2019] [SiGAT] Signed Graph Attention Networks [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-30493-5_53) 
 - [x] [ICLR2019] [RGAT] Relational Graph Attention Networks [[paper]](http://arxiv.org/abs/1904.05811) [[code]](https://github.com/babylonhealth/rgat)
@@ -90,11 +91,13 @@
 - [x] [ACL2020] [R-GAT] Relational Graph Attention Network for Aspect-based Sentiment Analysis [[paper]](http://arxiv.org/abs/2004.12362) [[code]](https://github.com/shenwzh3/RGAT-ABSA)
 - [x] [ICCV2019] [ReGAT] Relation-Aware Graph Attention Network for Visual Question Answering [[paper]](https://arxiv.org/abs/1903.12314v3) [[code]](https://github.com/linjieli222/VQA_ReGAT)
 - [x] [AAAI2021] [AD-GAT] Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16077) 
+- [ ] 
 - [x] [NeurIPS2018] [GAW] Watch your step: learning node embeddings via graph attention [[paper]](https://arxiv.org/abs/1710.09599v2) 
 - [x] [TPAMI2021] [NLGAT] Non-Local Graph Neural Networks [[paper]](https://arxiv.org/abs/2005.14612) 
 - [x] [NeurIPS2019] [ChebyGIN] Understanding Attention and Generalization in Graph Neural Networks [[paper]](http://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks.pdf) [[code]](https://github.com/bknyaz/graph_attention_pool)
 - [x] [ICML2019] [SAGPool] Self-Attention Graph Pooling [[paper]](http://proceedings.mlr.press/v97/lee19c.html) [[code]](https://github.com/inyeoplee77/SAGPool)
 - [x] [ICCV2019] [Attpool] Attpool: Towards hierarchical feature representation in graph convolutional networks via attention mechanism [[paper]](https://ieeexplore.ieee.org/document/9009471) 
+- [ ] 
 - [x] [WWW2019] [HAN] Heterogeneous Graph Attention Network [[paper]](https://doi.org/10.1145/3308558.3313562) [[code]]( https://github.com/Jhy1993/HAN)
 - [x] [NC2022] [PSHGAN] Heterogeneous graph embedding by aggregating meta-path and meta-structure through attention mechanism [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S092523122101479X) 
 - [x] [IJCAI2017] [PRML] Link prediction via ranking metric dual-level attention network learning [[paper]](https://www.ijcai.org/proceedings/2017/493) 
@@ -109,15 +112,18 @@
 - [x] [ICMR2020] [DAGC] DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition [[paper]](https://doi.org/10.1145/3372278.3390693) [[code]](https://github.com/dawenzi123/DAGCN)
 - [x] [AAAI2020] [AGCN] Graph Attention Based Proposal 3D ConvNets for Action Detection [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5893) 
 - [x] [EMNLP2019] [HGAT] HGAT: Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification [[paper]](https://dl.acm.org/doi/10.1145/3450352) [[code]](https://github.com/ytc272098215/HGAT)
+- [ ] 
 - [x] [ICLR2020] [Hyper-SAGNN] Hyper-Sagnn: A Self-Attention based Graph Neural Network for Hypergraphs [[paper]](http://arxiv.org/abs/1911.02613) [[code]](https://github.com/ma-compbio/Hyper-SAGNN)
 - [x] [CIKM2021] [HHGR] Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation [[paper]](http://arxiv.org/abs/2109.04200) [[code]](https://github.com/0411tony/hhgr)
 - [x] [ICDM2021] [HyperTeNet] HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation [[paper]](http://arxiv.org/abs/2110.01467) [[code]](https://github.com/mvijaikumar/hypertenet)
 - [x] [PR2020] [Hyper-GAT] Hypergraph Convolution and Hypergraph Attention [[paper]](http://arxiv.org/abs/1901.08150) [[code]](https://github.com/rusty1s/pytorch_geometric)
 - [x] [CVPR2020] [] Hypergraph attention networks for multimodal learning [[paper]](https://ieeexplore.ieee.org/document/9157723) 
+- [ ] 
 - [x] [KDD2020] [DAGNN] Towards Deeper Graph Neural Networks [[paper]](https://doi.org/10.1145/3394486.3403076) [[code]](https://github.com/divelab/DeeperGNN)
 - [x] [T-NNLS2020] [AP-GCN]  Adaptive propagation graph convolutional network [[paper]](https://arxiv.org/abs/2002.10306) [[code]](https://github.com/spindro/AP-GCN)
 - [x] [CIKM2021] [TDGNN] Tree Decomposed Graph Neural Network [[paper]](https://doi.org/10.1145/3459637.3482487) [[code]](https://github.com/YuWVandy/TDGNN)
 - [x] [ICLR2022] [GAMLP] Graph Attention Multi-layer Perceptron [[paper]](http://arxiv.org/abs/2108.10097) [[code]](https://github.com/zwt233/GAMLP)
+- [ ] 
 - [x] [AAAI2021] [FAGCN] Beyond Low-frequency Information in Graph Convolutional Networks [[paper]](http://arxiv.org/abs/2101.00797) [[code]](https://github.com/bdy9527/FAGCN)
 - [x] [arXiv2021] [ACM] Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification? [[paper]](http://arxiv.org/abs/2109.05641) 
 - [x] [KDD2020] [AM-GCN] AM-GCN: Adaptive Multi-channel Graph Convolutional Networks [[paper]](https://doi.org/10.1145/3394486.3403177) [[code]](https://github.com/zhumeiqiBUPT/AM-GCN)
@@ -128,6 +134,7 @@
 - [x] [CIKM2017] [MVE] An Attention-based Collaboration Framework for Multi-View Network Representation Learning [[paper]](https://doi.org/10.1145/3132847.3133021) 
 - [x] [NC2021] [EAGCN] Multi-view spectral graph convolution with consistent edge attention for molecular modeling [[paper]](https://www.sciencedirect.com/science/article/pii/S092523122100271X) 
 - [x] [SIGIR2020] [GCE-GNN] Global Context Enhanced Graph Neural Networks for Session-based Recommendation [[paper]](http://arxiv.org/abs/2106.05081) 
+- [ ] 
 - [x] [ICLR2019] [DySAT] Dynamic Graph Representation Learning via Self-Attention Networks [[paper]](https://arxiv.org/abs/1812.09430v2) [[code]](https://github.com/aravindsankar28/DySAT)
 - [x] [PAKDD2020] [TemporalGAT] TemporalGAT: Attention-Based Dynamic Graph Representation Learning [[paper]](https://dl.acm.org/doi/10.1007/978-3-030-47426-3_32) 
 - [x] [IJCAI2021] [GAEN] GAEN: Graph Attention Evolving Networks [[paper]](https://www.ijcai.org/proceedings/2021/213) [[code]](https://github.com/codeshareabc/GAEN)
@@ -139,12 +146,15 @@
 - [x] [AAAI2020] [GMAN] GMAN: A Graph Multi-Attention Network for Traffic Prediction [[paper]](http://arxiv.org/abs/1911.08415) 
 - [x] [AAAI2019] [ASTGCN] Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3881) [[code]](https://github.com/Davidham3/ASTGCN)
 - [x] [KDD2020] [ConSTGAT] ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps [[paper]](https://doi.org/10.1145/3394486.3403320) 
+- [ ] 
 - [x] [ICLR2022] [RainDrop] Graph-Guided Network for Irregularly Sampled Multivariate Time Series [[paper]](http://arxiv.org/abs/2110.05357) 
 - [x] [ICLR2021] [mTAND] Multi-Time Attention Networks for Irregularly Sampled Time Series [[paper]](http://arxiv.org/abs/2101.10318) [[code]](https://github.com/reml-lab/mTAN)
 - [x] [ICDM2020] [MTAD-GAT] Multivariate Time-series Anomaly Detection via Graph Attention Network [[paper]](http://arxiv.org/abs/2009.02040) 
 - [x] [WWW2020] [GACNN] Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems [[paper]](https://dl.acm.org/doi/10.1145/3366423.3380097) 
 - [x] [IJCAI2018] [GeoMAN] GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction [[paper]](https://www.ijcai.org/proceedings/2018/476) 
+
 ## GraphTransformers
+
 - [x] [arXiv2019] [GTR] Graph transformer [[paper]](https://openreview.net/forum?id=HJei-2RcK7) 
 - [x] [arXiv2020] [U2GNN] Universal Self-Attention Network for Graph Classification [[paper]](http://arxiv.org/abs/1909.11855) [[code]](https://github.com/daiquocnguyen/Graph-Transformer)
 - [x] [WWW2022] [UGformer] Universal Graph Transformer Self-Attention Networks [[paper]](http://arxiv.org/abs/1909.11855) [[code]](https://github.com/daiquocnguyen/Graph-Transformer)
@@ -169,7 +179,6 @@
 - [x] [AAAI2021] [KHGT] Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16576) [[code]](https://github.com/akaxlh/KHGT)
 - [x] [AAAI2021] [GATE] GATE: Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction [[paper]](http://arxiv.org/abs/2010.03009) 
 - [x] [NeurIPS2021] [STAGIN] Learning Dynamic Graph Representation of Brain Connectome with Spatio-Temporal Attention [[paper]](http://arxiv.org/abs/2105.13495) [[code]](https://github.com/egyptdj/stagin)
-
 
 ## Next
 
