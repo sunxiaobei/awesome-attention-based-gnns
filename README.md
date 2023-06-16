@@ -16,7 +16,41 @@
 
 ## Survey
 
+### GNN Survey
 - [x] [TKDD2019] [survey] Attention Models in Graphs: A Survey [[paper]](https://doi.org/10.1145/3363574) 
+- [x] [arXiv2022] [survey] Transformer for Graphs: An Overview from Architecture Perspective [[paper]]() 
+- [x] [TIST2022] [] Graph neural networks:Taxonomy, advances, and trends [[paper]]() 
+
+- [x] [2020] [survey] A Comprehensive Survey on Graph Neural Networks [[paper]]() 
+- [x] [2021] [survey] Graph Deep Learning: State of the Art and Challenges [[paper]]() 
+
+### Application
+- [x] [2022] [survey] Graph Neural Networks for Natural Language Processing: A Survey [[paper]]() 
+- [x] [2022] [] Graph neural networks for recommender system [[paper]]() 
+- [x] [2021] [survey] Graph Neural Network for Traffic Forecasting: A Survey [[paper]]() 
+- [x] [2022] [survey] Graph Neural Networks in IoT: A Survey [[paper]]() 
+- [x] [2023] [] Multimodal learning with graphs [[paper]]() 
+
+### Attention Survey
+- [x] [TKDE2022] [survey] A General Survey on Attention Mechanisms in Deep Learning [[paper]]() 
+- [x] [2021] [survey] Neural Attention Models in Deep Learning: Survey and Taxonomy [[paper]]() 
+- [x] [2021] [survey] An Attentive Survey of Attention Models [[paper]]() 
+- [x] [2021] [survey] Attention in Natural Language Processing [[paper]]() 
+- [x] [2018] [survey] An Introductory Survey on Attention Mechanisms in NLP Problems [[paper]]() 
+- [x] [2022] [survey] Visual Attention Methods in Deep Learning: An In-Depth Survey [[paper]]() 
+- [x] [2022] [survey] Visual Attention Network [[paper]]() 
+- [x] [2021] [survey] Attention Mechanisms in Computer Vision: A Survey [[paper]]() 
+- [x] [2021] [survey] Attention mechanisms and deep learning for machine vision: A survey of the state of the art [[paper]]() 
+- [x] [2016] [survey] Survey on the attention based RNN model and its applications in computer vision [[paper]]() 
+- [x] [2022] [survey] Efficient Transformers: A Survey [[paper]]() 
+- [x] [2021] [survey] A Survey of Transformers [[paper]]() 
+- [x] [TPAMI2022] [survey] A Survey on Vision Transformer [[paper]]() 
+- [x] [2022] [survey] Transformers in Vision: A Survey [[paper]]() 
+- [x] [2022] [survey] Transformers Meet Visual Learning Understanding: A Comprehensive Review [[paper]]() 
+- [x] [2022] [survey] Transformers in computational visual media: A survey [[paper]]() 
+- [x] [2021] [survey] A Survey of Visual Transformers [[paper]]() 
+- [x] [2020] [survey] A Survey on Visual Transformer [[paper]]() 
+- [x] [2022] [survey] Transformers in Time Series: A Survey [[paper]]() 
 
 ## GRANs
 
