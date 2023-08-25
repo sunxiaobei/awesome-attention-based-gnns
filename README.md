@@ -231,8 +231,6 @@
 ## Citation
 
 ```
-# under review
-
-
+Sun, C., Li, C., Lin, X. et al. Attention-based graph neural networks: a survey. Artif Intell Rev (2023). https://doi.org/10.1007/s10462-023-10577-2
 ```
 
