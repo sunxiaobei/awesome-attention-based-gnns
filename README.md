@@ -250,3 +250,21 @@
 Sun, C., Li, C., Lin, X. et al. Attention-based graph neural networks: a survey. Artif Intell Rev (2023). https://doi.org/10.1007/s10462-023-10577-2
 ```
 
+### Bib
+
+```
+@article{ WOS:001051847200001,
+Author = {Sun, Chengcheng and Li, Chenhao and Lin, Xiang and Zheng, Tianji and
+   Meng, Fanrong and Rui, Xiaobin and Wang, Zhixiao},
+Title = {Attention-based graph neural networks: a survey},
+Journal = {ARTIFICIAL INTELLIGENCE REVIEW},
+Year = {2023},
+Month = {2023 AUG 21},
+DOI = {10.1007/s10462-023-10577-2},
+EarlyAccessDate = {AUG 2023},
+ISSN = {0269-2821},
+EISSN = {1573-7462},
+Unique-ID = {WOS:001051847200001},
+}
+```
+
