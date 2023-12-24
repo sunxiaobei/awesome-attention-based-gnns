@@ -1,6 +1,6 @@
 # Awesome Attention-based GNNs
 
-- A collection of resources on attention-based graph neural networks.
+- A collection of resources on attention-based graph neural networks([Github](https://github.com/sunxiaobei/awesome-attention-based-gnns)，[Paper](https://doi.org/10.1007/s10462-023-10577-2)).
 
 - Welcome to submit a pull request to add more awesome papers.
 
@@ -19,6 +19,7 @@
 ## Survey
 
 ### GNN Survey
+- [x] [Artif Intell Rev2023] [survey] Attention-based Graph Neural Networks: A Survey [[paper]](https://doi.org/10.1007/s10462-023-10577-2) 
 - [x] [TKDD2019] [survey] Attention Models in Graphs: A Survey [[paper]](https://doi.org/10.1145/3363574) 
 - [x] [arXiv2022] [survey] Transformer for Graphs: An Overview from Architecture Perspective [[paper]]() 
 - [x] [TIST2022] [] Graph neural networks:Taxonomy, advances, and trends [[paper]]() 
@@ -254,8 +255,7 @@ Sun, C., Li, C., Lin, X. et al. Attention-based graph neural networks: a survey.
 
 ```
 @article{ WOS:001051847200001,
-Author = {Sun, Chengcheng and Li, Chenhao and Lin, Xiang and Zheng, Tianji and
-   Meng, Fanrong and Rui, Xiaobin and Wang, Zhixiao},
+Author = {Sun, Chengcheng and Li, Chenhao and Lin, Xiang and Zheng, Tianji and Meng, Fanrong and Rui, Xiaobin and Wang, Zhixiao},
 Title = {Attention-based graph neural networks: a survey},
 Journal = {ARTIFICIAL INTELLIGENCE REVIEW},
 Year = {2023},
